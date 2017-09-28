@@ -12,8 +12,10 @@ Recreate tic-tac-toe in Javascript
 
 4. The game continues until one player has three matching symbols in a role or until there are no available spaces.
 
+5. Alert players when someone has won or when game is draw
 
-## Additional requirement
+
+## Additional requirements
 
 1. Include a restart game button
 
